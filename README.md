@@ -14,7 +14,7 @@ eksempelvis PyCharm, Visual Studio Code, eller hvad man bruger til at skrive kod
 
 Kør scriptet
 ----------------------------
-åben kommandoprompten og skrive følgende:
+Åben kommandoprompten og skrive følgende:
 "C:\Users\%USERNAME%\PycharmProjects\pythonProject2\main.py"
 
 Skriv stien til lokationen, der skal tages backup af og tryk enter. Skriv efterfølgende lokationen hvor backup skal ligge.
